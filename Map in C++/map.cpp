@@ -7,6 +7,7 @@ int main(){
     pq.push(40);
     pq.push(90);
     pq.push(60);
+    pq.push(788);
 
     while(!pq.empty()){
         cout << pq.top() << " ";
